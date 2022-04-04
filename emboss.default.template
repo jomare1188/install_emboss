@@ -4,7 +4,7 @@
 # By default this is /usr/local/share/EMBOSS/test but the directory can
 # be changed with --prefix when you configure EMBOSS.
 
-SET /usr/share/EMBOSS/test
+SET emboss_tempdata /usr/share/EMBOSS/test
 
 # Proxy - set this if any databases are accessed through a proxy web server.
 # Turn off in the DB definition with proxy: ":" for any
